@@ -36,6 +36,8 @@ Open-source ComfyUI extension for building configurable image grids and XYZ plot
 
 Stable Diffusion WebUI extension fork with improved aspect-ratio controls, resolution presets and dimension calculation tools.
 
+**50+ GitHub stars · 5+ forks**
+
 ### 🕷️ [car-dealership](https://github.com/LEv145/car-dealership)
 
 Django + PostgreSQL application with relational data modeling, reusable CRUD views, filtering, validation and Docker-based local setup.
