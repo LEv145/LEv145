@@ -9,9 +9,9 @@
 I primarily work with Python and enjoy designing backend systems,
 asynchronous applications, APIs and integrations.
 
-I have commercial software development experience since 2024,
-including Sber and Technologies of Industry Transformation, alongside
-several years of independent and open-source development.
+I have commercial software development experience since 2024, 
+including roles at Sber and Technologies of Industry Transformation, 
+alongside several years of independent and open-source development.
 
 My main engineering interests are:
 
@@ -60,9 +60,8 @@ Asynchronous Discord chatbot integrating an external conversational API with Pos
 
 ## ⭐ Open source ⭐
 
-I enjoy building tools and libraries around problems I actually encounter,
-from networking and API integrations to creative tooling.
+I build tools around problems I actually encounter. My projects include a ComfyUI extension with 200+ GitHub stars, published Python packages, API clients and developer tooling.
 
 ## 📌 Contact 📌
 
-https://t.me/lev145_0 • levxxx03@gmail.com
+[Telegram](https://t.me/lev145_0) · [Email](mailto:levxxx03@gmail.com)
