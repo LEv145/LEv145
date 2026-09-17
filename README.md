@@ -27,22 +27,34 @@ SQLAlchemy, Docker, Linux, Git.
 ## 🍒 Featured projects 🍒
 
 ### 🐦‍🔥 [images-grid-comfy-plugin](https://github.com/LEv145/images-grid-comfy-plugin)
-Open-source ComfyUI extension for building image grids and XYZ plots.
 
-**200+ GitHub stars • 20+ forks**
+Open-source ComfyUI extension for building configurable image grids and XYZ plots.
 
-### 🦜 [port-tunnel](https://github.com/LEv145/port-tunnel)
-Reverse TCP tunneling service built with Python and asyncio.
+**200+ GitHub stars · 20+ forks**
 
-Designed around separate control/data connections, a typed control
-protocol, heartbeat handling and explicit connection lifecycle management.
+### 🦜 [--sd-webui-ar-plus](https://github.com/LEv145/--sd-webui-ar-plus)
 
-### 🦎 [sporepedia.py](https://github.com/LEv145/sporepedia.py)
-Asynchronous unofficial Sporepedia client combining API integration,
-web reverse engineering, CLI tooling and automated tests.
+Stable Diffusion WebUI extension fork with improved aspect-ratio controls, resolution presets and dimension calculation tools.
 
-### 🐍 [spore.py](https://github.com/LEv145/spore.py)
-Async Python REST API client with CLI support and package distribution.
+### 🕷️ [car-dealership](https://github.com/LEv145/car-dealership)
+
+Django + PostgreSQL application with relational data modeling, reusable CRUD views, filtering, validation and Docker-based local setup.
+
+### 🦎 [spore.py](https://github.com/LEv145/spore.py)
+
+Asynchronous Python client for the Spore REST API with typed models, CLI tooling and PyPI package distribution.
+
+### 🐍 [sporepedia.py](https://github.com/LEv145/sporepedia.py)
+
+Asynchronous unofficial Sporepedia client combining API integration, web reverse engineering, CLI tooling and automated tests.
+
+### 🦇 [port-tunnel](https://github.com/LEv145/port-tunnel)
+
+Reverse TCP tunneling service built with Python and asyncio, featuring a typed control protocol, heartbeat and explicit connection lifecycle management.
+
+### 🐙 [discoboltalka](https://github.com/LEv145/discoboltalka)
+
+Asynchronous Discord chatbot integrating an external conversational API with PostgreSQL persistence, SQLAlchemy and Docker deployment.
 
 ## ⭐ Open source ⭐
 
