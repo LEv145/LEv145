@@ -4,7 +4,7 @@
 
 # Hi, I'm Lev !👋
 
-### 👾 Python Backend & Software Engineer 👾
+## 👾 Python Backend & Software Engineer 👾
 
 I primarily work with Python and enjoy designing backend systems,
 asynchronous applications, APIs and integrations.
